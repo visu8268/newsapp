@@ -1,0 +1,17 @@
+#navbar{display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #e8b5e3;
+    }
+    
+    #navbar>input{width:70%;
+    height:30px;
+    border-radius: 10px;
+    }
+
+    #newsdetail{width:70%;
+    
+    height:400px; 
+     margin: auto;
+
+}
